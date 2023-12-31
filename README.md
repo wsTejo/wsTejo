@@ -1,10 +1,10 @@
 Hi there, I'm William Sutejo 👋
 
 About Me
-🎓 Recent graduate in Software Development with a passion for Cybersecurity
-🔭 Currently exploring the realms of cybersecurity while studying
-💻 Skilled in [List Programming Languages or Technologies]
-🔒 Dedicated to enhancing digital security and protecting user data
+<br>🎓 Recent graduate in Software Development with a passion for Cybersecurity
+<br>🔭 Currently exploring the realms of cybersecurity while studying
+<br>💻 Skilled in [List Programming Languages or Technologies]
+<br>🔒 Dedicated to enhancing digital security and protecting user data
 
 What I Do
 🛠️ Software Developer | Cybersecurity Enthusiast
