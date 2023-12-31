@@ -13,14 +13,14 @@ Hi there, I'm William Sutejo 👋
 <br>📚 Constantly learning and staying updated on cyber defense strategies
 <br>
 <br>Find Me Around the Web
-<br>🌐 Portfolio Website
-<br>📝 LinkedIn
-<br>🐦 Twitter
+<br>🌐 [Portfolio Website]
+<br>📝 [LinkedIn]
+<br>🐦 [Twitter]
 <br>
 <br>Latest Blog Posts
 <br>📕 [Title of Blog Post 1](Link to Blog Post 1)
 <br>📗 [Title of Blog Post 2](Link to Blog Post 2)
 <br>
 <br>Let's Connect
-<br>📧 Email: YourEmail@example.com
+<br>📧 Email: [YourEmail@example.com]
 <br>💬 Open to collaboration and discussing cybersecurity initiatives
