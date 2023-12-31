@@ -1,26 +1,26 @@
 Hi there, I'm William Sutejo 👋
-
+<br>
 About Me
 <br>🎓 Recent graduate in Software Development with a passion for Cybersecurity
 <br>🔭 Currently exploring the realms of cybersecurity while studying
 <br>💻 Skilled in [List Programming Languages or Technologies]
 <br>🔒 Dedicated to enhancing digital security and protecting user data
-
+<br>
 What I Do
-🛠️ Software Developer | Cybersecurity Enthusiast
-🌐 Building secure and robust applications
-🔍 Exploring ethical hacking and penetration testing
-📚 Constantly learning and staying updated on cyber defense strategies
-
+<br>🛠️ Software Developer | Cybersecurity Enthusiast
+<br>🌐 Building secure and robust applications
+<br>🔍 Exploring ethical hacking and penetration testing
+<br>📚 Constantly learning and staying updated on cyber defense strategies
+<br>
 Find Me Around the Web
-🌐 Portfolio Website
-📝 LinkedIn
-🐦 Twitter
-
+<br>🌐 Portfolio Website
+<br>📝 LinkedIn
+<br>🐦 Twitter
+<br>
 Latest Blog Posts
-📕 [Title of Blog Post 1](Link to Blog Post 1)
-📗 [Title of Blog Post 2](Link to Blog Post 2)
-
+<br>📕 [Title of Blog Post 1](Link to Blog Post 1)
+<br>📗 [Title of Blog Post 2](Link to Blog Post 2)
+<br>
 Let's Connect
-📧 Email: YourEmail@example.com
-💬 Open to collaboration and discussing cybersecurity initiatives
+<br>📧 Email: YourEmail@example.com
+<br>💬 Open to collaboration and discussing cybersecurity initiatives
